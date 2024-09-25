@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+seminar/.bundle
+minimal-mistakes-master
+.venv
+.idea
