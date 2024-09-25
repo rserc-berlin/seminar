@@ -11,7 +11,6 @@ gem install bundler
 # Set local path
 bundle config set --local path ~/.local/share/gem/ruby/3.2.0/gems/
 
-cd seminars
 bundle exec jekyll serve
 ```
 

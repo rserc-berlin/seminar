@@ -3,7 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-seminar/.bundle
+.bundle
 minimal-mistakes-master
 .venv
 .idea
