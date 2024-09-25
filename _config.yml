@@ -193,6 +193,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /minimal-mistakes-master
 keep_files:
   - .git
   - .svn
