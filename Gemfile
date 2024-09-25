@@ -36,3 +36,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Theme via https://github.com/mmistakes/minimal-mistakes
 gem "minimal-mistakes-jekyll"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
