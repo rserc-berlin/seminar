@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Environmental and Resource Economics in Berlin"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
