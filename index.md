@@ -5,13 +5,13 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#cfe6ff"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/mountains_panorama.jpg
 excerpt: "Welcome to an overview of all lectures and talks in Berlin"
 intro: 
   - excerpt:  View all past and upcoming events and subscribe to our Newsletter #'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-4-th.jpg
+  - image_path: assets/images/natur_lake.jpg
     alt: "placeholder image 1"
     title: "Past events"
     excerpt: "Guests and topics from past semesters."
