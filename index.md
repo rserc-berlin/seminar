@@ -1,15 +1,15 @@
 ---
-title: "Environmental and Resource Economics \n in Berlin"
+title: "Research Seminar on Environmental, Resource and Climate Economics"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#cfe6ff"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "Welcome to an Overview of the RSERC Seminar Series"
+#excerpt: 
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: "Welcome to an overview of all lectures, talks and events in Berlin" #'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
