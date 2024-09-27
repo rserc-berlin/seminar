@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Upcoming Events"
 permalink: /list-of-events/
 layout: single
 author_profile: false
@@ -8,10 +8,6 @@ author_profile: false
 ---
 
 
-
-# Upcoming Events
-
-This is a test
 
 {% assign today = site.time %}
 {% assign upcoming_events = site.posts | where_exp: "post", "post.date >= today" | sort: 'date' %}
