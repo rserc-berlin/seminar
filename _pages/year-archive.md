@@ -8,7 +8,7 @@ author_profile: false
 ---
 
 
-
+<div class="centered-content">
 
 # Upcoming Events
 
