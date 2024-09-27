@@ -19,7 +19,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/berlin_straße_siegessäule.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Upcoming events"
     excerpt: "Next talks for the winter semester 2024/25."
@@ -56,6 +55,9 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    # {% include feature_row id="feature_row2" type="left" %}
+    #{% include feature_row id="feature_row3" type="right" %}
+    #{% include feature_row id="feature_row4" type="center" %}
 ---
 
 
@@ -63,8 +65,11 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+## About the Seminar
 
-{% include feature_row id="feature_row3" type="right" %}
+The Research Seminar on Environment, Resources and Climate Economics (RSERC) is jointly organized by Technical University Berlin, Potsdam Institute for Climate Impact Research, Humboldt University Berlin, Mercator Research Institute on Global Commons and Climate Change, and Leibniz Association for Economic Research.
 
-{% include feature_row id="feature_row4" type="center" %}
+Every week, it brings together environmental and resource economists to discuss the latest research presented by distinguished external scholars.
+
+### Time & venue:
+Fridays, 10:00 - 12:00 (starting on 10.11.2023); see schedule for seminar venues 
