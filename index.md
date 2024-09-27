@@ -5,7 +5,7 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#cfe6ff"
-  overlay_filter: "0.8"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "Welcome to an overview of all lectures and talks in Berlin"
 intro: 
@@ -30,7 +30,7 @@ feature_row:
     title: "Newsletter"
     excerpt: "Subscribe to our Newsletter to be informed about the upcoming agenda."
     url: "https://forms.office.com/r/DG50nN8XkW"
-    btn_label: "Read More"
+    btn_label: "Subscribe"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
