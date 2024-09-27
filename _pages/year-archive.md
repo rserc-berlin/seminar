@@ -21,7 +21,7 @@ author_profile: false
 {% endfor %}
 
 
-
+<br><br> <!-- Two line breaks -->
 
 # Past Events
 
