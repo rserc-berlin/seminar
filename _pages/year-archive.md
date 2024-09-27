@@ -6,9 +6,9 @@ author_profile: false
 ---
 
 
-# Upcoming Events
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
 
-<hr>
+# Upcoming Events
 
 {% assign today = site.time %}
 {% assign upcoming_events = site.posts | where_exp: "post", "post.date >= today" | sort: 'date' %}
@@ -17,13 +17,11 @@ author_profile: false
   <h2>{{ post.title }}</h2>
   <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
   <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url }}">Read More</a>
-  <hr> <!-- Divider between posts -->
+  <a href="{{ post.url | relative_url }}">Read More</a>
+  <hr>
 {% endfor %}
 
 # Past Events
-
-<hr>
 
 {% assign past_events = site.posts | where_exp: "post", "post.date < today" | sort: 'date' | reverse %}
 
@@ -31,7 +29,10 @@ author_profile: false
   <h2>{{ post.title }}</h2>
   <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
   <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url }}">Read More</a>
-  <hr> <!-- Divider between posts -->
+  <a href="{{ post.url | relative_url }}">Read More</a>
+  <hr>
 {% endfor %}
+
+</div>
+
 
