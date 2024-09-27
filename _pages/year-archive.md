@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Events"
-permalink: /list-of-events/
+permalink: /year-archive/
 layout: single
 author_profile: false
 #text-align: center;
