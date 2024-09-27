@@ -11,14 +11,14 @@ excerpt: "Welcome to an overview of all lectures and talks in Berlin"
 intro: 
   - excerpt:  View all past and upcoming events and subscribe to our Newsletter #'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/nature_lake.jpg
+  - image_path: assets/images/berlin_branderburger_unterdenlinden.jpg
     alt: "placeholder image 1"
     title: "Past events"
     excerpt: "Guests and topics from past semesters."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/berlin_straße_siegessäule.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Upcoming events"
