@@ -1,14 +1,13 @@
 ---
 title: "Events by Year"
 permalink: /year-archive/
-layout: default
+layout: single
 author_profile: false
 #text-align: center;
 #<div style="max-width: 800px; margin: 0 auto;">
 ---
 
 
-<div class="centered-content">
 
 # Upcoming Events
 
@@ -37,6 +36,6 @@ This is a test
   <hr>
 {% endfor %}
 
-</div>
+
 
 
