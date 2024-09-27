@@ -15,14 +15,14 @@ feature_row:
     alt: "placeholder image 1"
     title: "Past events"
     excerpt: "Guests and topics from past semesters."
-    url: "#test-link"
+    url:  "/year-archive/#past-events"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/berlin_straße_siegessäule.jpg
     alt: "placeholder image 2"
     title: "Upcoming events"
     excerpt: "Next talks for the winter semester 2024/25."
-    url: "#test-link"
+    url: "/year-archive/#upcoming-events"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/newspaper.jpg
