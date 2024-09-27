@@ -1,6 +1,6 @@
 ---
-title: "Events by Year"
-permalink: /year-archive/
+title: " "
+permalink: /list-of-events/
 layout: single
 author_profile: false
 #text-align: center;
