@@ -14,7 +14,7 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-4-th.jpg
     alt: "placeholder image 1"
     title: "Past events"
-    excerpt: "View guests and topics from past semesters."
+    excerpt: "Guests and topics from past semesters."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -22,14 +22,14 @@ feature_row:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Upcoming events"
-    excerpt: "View upcoming events for the winter semester 2024/25."
+    excerpt: "Next talks for the winter semester 2024/25."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/newspaper.jpg
     title: "Newsletter"
     excerpt: "Subscribe to our Newsletter to be informed about the upcoming agenda."
-    url: "#test-link"
+    url: "https://forms.office.com/r/DG50nN8XkW"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
