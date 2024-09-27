@@ -1,14 +1,17 @@
 ---
-title:  "Daniel Nachtigall (OECD)"
-date:   2024-07-12 10:00:00 +0200
+title:  "Sebastian Schwenen (TU Munich) and Cloé LeCoq (Université Paris 2 Panthéon)"
+date:   2024-05-24 10:00:00 +0200
 categories: jekyll update
 ---
-Title: The OECD Climate Actions and Policies Measurement
-Framework: A Climate Policy Database for Empirical
-Research
 
-Venue: MCC Conference Room,
-Torgauer Str. 12-15, 10829 Berlin
-Hybrid option:
-(Zoom link will follow via mailing list)
+Title 1: Regulation of Nuclear Safety in the US: How Regulatory
+Design Shapes Safety
+
+Title 2: Impact of Renewable Generation on the Safety/Outages of
+Nuclear Power Plants
+
+Venue: Technical University Berlin,
+Straße des 17. Juni 135, 10623 Berlin
+Room information and zoom link will
+follow via mailing list
 
