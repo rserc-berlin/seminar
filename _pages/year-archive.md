@@ -20,6 +20,9 @@ author_profile: false
   <hr>
 {% endfor %}
 
+
+
+
 # Past Events
 
 {% assign past_events = site.posts | where_exp: "post", "post.date < today" | sort: 'date' | reverse %}
