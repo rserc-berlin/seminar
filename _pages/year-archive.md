@@ -4,10 +4,11 @@ permalink: /year-archive/
 layout: default
 author_profile: false
 #text-align: center;
+#<div style="max-width: 800px; margin: 0 auto;">
 ---
 
 
-<div style="max-width: 800px; margin: 0 auto;">
+
 
 # Upcoming Events
 
