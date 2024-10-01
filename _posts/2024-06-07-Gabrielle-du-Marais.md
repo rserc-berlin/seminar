@@ -2,7 +2,7 @@
 title:  "Gabrielle du Marais (Université Paris-Panthéon-Assas, London School of
 Economics)"
 date:   2024-06-07 10:00:00 +0200
-categories: jekyll update
+#categories: jekyll update
 ---
 Title: Ready for a Progressive Carbon Tax? Footprint Definition,
 Support, and Ethical Motives
