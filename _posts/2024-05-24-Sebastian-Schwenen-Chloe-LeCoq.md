@@ -1,7 +1,7 @@
 ---
 title:  "Sebastian Schwenen (TU Munich) and Cloé LeCoq (Université Paris 2 Panthéon)"
 date:   2024-05-24 10:00:00 +0200
-#categories: jekyll update
+categories: #jekyll update
 ---
 
 Title 1: Regulation of Nuclear Safety in the US: How Regulatory
