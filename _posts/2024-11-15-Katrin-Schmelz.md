@@ -5,5 +5,7 @@ categories: #jekyll update
 ---
 
 
-Venue: Room information and zoom link will
+**Venue**: Room information and zoom link will
 follow via mailing list
+
+**Time**: 2-3 pm (CEST)

@@ -7,6 +7,6 @@ categories: #jekyll update
 ---
 
 
-Venue: Room information will
+**Venue**: Room information will
 follow via mailing list
 
