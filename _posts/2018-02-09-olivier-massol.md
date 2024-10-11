@@ -1,6 +1,6 @@
 ---
 title: "Olivier Massol (IFP Paris)"
-date: tbd
+date: 2018-02-09 10:15:00
 categories: #seminar
 ---
 
