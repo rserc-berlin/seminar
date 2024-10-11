@@ -1,7 +1,7 @@
 ---
 title: "Stefan Hinkelmann (Stockholm University)"
 date: 2024-01-26 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: (Be-)Coming Clean: A Model of the U.S. Energy Transition  

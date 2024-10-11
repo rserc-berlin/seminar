@@ -1,7 +1,7 @@
 ---
 title: "Johanna Isman (Toulouse School of Economics)"
 date: 2023-12-15 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: Auditor leniency and participation in voluntary forest certification  

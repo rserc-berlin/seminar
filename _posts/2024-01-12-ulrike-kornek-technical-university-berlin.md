@@ -1,7 +1,7 @@
 ---
 title: "Ulrike Kornek (Christian-Albrechts-Universität zu Kiel)"
 date: 2024-01-12 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: Efficiency and redistribution in sharing the burden of climate change mitigation  

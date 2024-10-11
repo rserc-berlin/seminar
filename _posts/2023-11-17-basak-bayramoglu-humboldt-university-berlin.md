@@ -1,7 +1,7 @@
 ---
 title: "Basak Bayramoglu (INRAE)"
 date: 2023-11-17 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: Are international climate aid really climate-related? Extent and determinants of donor countries miscoding of climate projects  

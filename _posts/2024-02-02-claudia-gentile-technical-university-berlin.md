@@ -1,7 +1,7 @@
 ---
 title: "Claudia Gentile (University of Zurich)"
 date: 2024-02-02 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: Relying on Intermittency: Clean Energy, Storage, and Innovation in a Macro Climate Model  

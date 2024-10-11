@@ -1,7 +1,7 @@
 ---
 title: "Sefi Roth (London School of Economics and Political Science)"
 date: 2024-01-19 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: Making the Invisible Visible: The Impact of Real-Time Feedback on Indoor Air Pollution  

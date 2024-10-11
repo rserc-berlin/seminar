@@ -1,7 +1,7 @@
 ---
 title: "Jean-François Jacques (Université Gustave Eiffel)"
 date: 2023-11-10 10:15:00
-categories: seminar
+categories: #seminar
 ---
 
 **Title**: Nutrition and Climate Policies in the European Union: Friends or Enemies?  
