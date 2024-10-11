@@ -2,6 +2,7 @@
 title: "Upcoming Events"
 permalink: /year-archive/
 layout: single
+class: wide
 author_profile: false
 #text-align: center;
 #<div style="max-width: 800px; margin: 0 auto;">
