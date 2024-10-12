@@ -1,5 +1,5 @@
 ---
-title: "Dr. Gregor Pfeifer (University of Hohenheim) & Stefan Klössner (Saarland University)"
+title: "Gregor Pfeifer (University of Hohenheim) & Stefan Klössner (Saarland University)"
 date: 2017-02-13 11:00:00
 categories: #seminar
 ---

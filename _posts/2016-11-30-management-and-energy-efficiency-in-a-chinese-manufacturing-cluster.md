@@ -1,5 +1,5 @@
 ---
-title: "Prof. Valerie Karplus (MIT)"
+title: "Valerie Karplus (MIT)"
 date: 2016-11-30 11:00:00
 categories: #seminar
 ---
