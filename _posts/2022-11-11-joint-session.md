@@ -5,8 +5,9 @@ categories: #seminar
 ---
 
 **Title**:  
-- The Political Economy of the EU Emissions Trading System (Ryan Rafaty)  
-- The Roles of Social Norms and Economic Reasoning in Shaping Support for Carbon Pricing (Stefania Innocenti)  
+The Political Economy of the EU Emissions Trading System (Ryan Rafaty)  
+
+The Roles of Social Norms and Economic Reasoning in Shaping Support for Carbon Pricing (Stefania Innocenti)  
 
 **Time**: 10:15 - 11:45  
 
