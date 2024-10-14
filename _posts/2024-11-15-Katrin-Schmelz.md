@@ -5,7 +5,8 @@ categories: #jekyll update
 ---
 
 
+**Time**: 2-3 pm (CEST)
+
 **Venue**: Room information and zoom link will
 follow via mailing list
 
-**Time**: 2-3 pm (CEST)
