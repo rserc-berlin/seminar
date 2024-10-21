@@ -11,4 +11,4 @@ The Research Seminar on Environment, Resources and Climate Economics (RSERC) is 
 Every week, it brings together environmental and resource economists to discuss the latest research presented by distinguished external scholars.
 
 ### Time & venue:
-Fridays, 10:00 - 12:00 (starting on 15.11.2024); see upcoming events for venues.
+Fridays, usually 10:00 - 12:00 (starting on 15.11.2024); see upcoming events for venues and deviating times.
