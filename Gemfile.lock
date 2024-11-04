@@ -309,6 +309,7 @@ PLATFORMS
   riscv64-linux-gnu
   riscv64-linux-musl
   ruby
+  x64-mingw-ucrt
   x86-cygwin
   x86-linux
   x86-linux-android
@@ -327,4 +328,4 @@ DEPENDENCIES
   jekyll-include-cache
 
 BUNDLED WITH
-   2.5.20
+   2.5.22
