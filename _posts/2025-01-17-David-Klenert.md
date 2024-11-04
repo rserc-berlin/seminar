@@ -6,7 +6,10 @@ categories: #jekyll update
 
 ---
 
+**Time**: 10:15 - 11:45  (CEST)
 
-**Venue**: Room information will
-follow via mailing list
+**Venue**: MCC Conference Room,
+Torgauer Str. 12-15, 10829 Berlin
+Hybrid option:
+(Zoom link will follow via mailing list)
 
