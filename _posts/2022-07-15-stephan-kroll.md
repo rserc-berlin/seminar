@@ -10,4 +10,4 @@ categories: #seminar
 
 **Venue**: Technical University Berlin, Straße des 17. Juni 135, 10623 Berlin, Room TBD  
 
-Hybrid option: Meeting link via mailing list
+Hybrid option: Meeting link via mailing list.
