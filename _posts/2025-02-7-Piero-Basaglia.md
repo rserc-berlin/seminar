@@ -6,7 +6,11 @@ categories: #jekyll update
 
 ---
 
+**Title**: Demand for Emergency Room Services and Air Pollution: Quasi-Experimental Evidence from Mexico
 
-**Venue**: Room information will
-follow via mailing list
+**Time**: 10:15 - 11:45  (CEST)
+
+**Venue**: RWI, Zinnowitzer Straße 1, 10115 
+
+**Online**: Teams link will follow via mailing list.
 
