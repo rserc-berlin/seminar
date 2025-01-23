@@ -12,6 +12,6 @@ categories: #jekyll update
 
 **Venue**: Campus Nord of the Humboldt University (Hannoversche Str. 27, 10115 Berlin) - Room 1.22
 
-**Online**: Teams link via mailing list
+**Online**: Teams link via mailing list.
 
 
