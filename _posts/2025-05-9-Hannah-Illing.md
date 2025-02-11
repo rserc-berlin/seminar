@@ -1,6 +1,6 @@
 ---
 
-title:  "Hannah Illing (University of Bonn, IZA)"
+title:  "Hannah Illing (University of Bonn)"
 date:   2025-05-09 10:00:00 +0200
 categories: #jekyll update
 
