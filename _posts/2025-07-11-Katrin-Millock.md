@@ -1,6 +1,6 @@
 ---
 
-title:  "Katrin Milock (Paris School of Economics, CNRS)"
+title:  "Katrin Millock (Paris School of Economics, CNRS)"
 date:   2025-07-11 10:00:00 +0200
 categories: #jekyll update
 
