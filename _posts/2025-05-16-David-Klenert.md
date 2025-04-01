@@ -11,5 +11,6 @@ categories: #jekyll update
 
 **Time**: 10:15 - 11:45  (CEST)
 
-**Venue**: TBC
+**Venue**: Technical University Berlin, Straße des 17. Juni 135, Room H3143  
+Hybrid option: Meeting link via mailing list
 
