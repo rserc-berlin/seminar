@@ -11,7 +11,7 @@ excerpt: "Welcome to an overview of all lectures and talks in Berlin"
 intro: 
   - excerpt:  View all past and upcoming events and subscribe to our Newsletter. #'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/Presentations_gerlagh_basaglia(2).jpg
+  - image_path: assets/images/Presentations_gerlagh_basaglia(3).jpg
     alt: "placeholder image 1"
     title: "Past events"
     excerpt: "Guests and topics from past semesters."
@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/berlin_straße_siegessäule.jpg
     alt: "placeholder image 2"
     title: "Upcoming events"
-    excerpt: "Next talks for the winter semester 2024/25."
+    excerpt: "Next talks for the summer semester 2025."
     url: "/year-archive/#upcoming-events"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -72,4 +72,4 @@ The Research Seminar on Environment, Resources and Climate Economics (RSERC) is 
 Every week, it brings together environmental and resource economists to discuss the latest research presented by distinguished external scholars.
 
 ### Time & venue:
-Fridays, usually 10:00 - 12:00 (starting on 15.11.2024); see upcoming events for venues and deviating times.
+Fridays, usually 10:00 - 12:00 (starting on 09.05.2025); see upcoming events for venues and deviating times.
