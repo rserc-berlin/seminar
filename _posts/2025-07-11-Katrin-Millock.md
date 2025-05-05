@@ -6,11 +6,11 @@ categories: #jekyll update
 
 ---
 
-**Title**: TBC
+**Title**: Irrigation as a mitigator for migration intentions following drought in West Africa
 
 **Website**: Further information on Katrin Millock's research can be found [here](https://works.bepress.com/millock/).
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 9:15 - 10:45  (CEST)
 
 **Venue**: MCC Conference Room,
 Torgauer Str. 12-15, 10829 Berlin
