@@ -16,5 +16,5 @@ categories: #jekyll update
 Mohrenstraße 58, 10117 Berlin,
 Karl-Popper-Raum
 
-**Online**: Teams link will follow via mailing list.
+**Online**: Teams link will follow via the mailing list.
 
