@@ -12,5 +12,5 @@ categories: #jekyll update
 
 **Venue**: RWI, Zinnowitzer Straße 1, 10115 
 
-**Online**: Teams link will follow via mailing list.
+**Online**: Teams link will follow via the mailing list.
 
