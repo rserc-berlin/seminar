@@ -16,5 +16,5 @@ Affected by a Flood Event
 **Venue**: MCC Conference Room,
 Torgauer Str. 12-15, 10829 Berlin
 Hybrid option:
-(Zoom link will follow via the mailing list)
+Zoom link will follow via the mailing list
 
