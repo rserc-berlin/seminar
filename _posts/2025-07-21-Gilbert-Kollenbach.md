@@ -13,6 +13,6 @@ categories: #jekyll update
 **Time**: 14:15 - 15:45  (CEST) **Special date**
 
 **Venue**: Campus Nord of the Humboldt-Universität zu Berlin, Hannoversche Str. 27, 10115 Berlin (Room 1.22)
-Hybrid option:(Zoom link will follow via mailing list)
+Hybrid option:(Zoom link will follow via the mailing list)
 
 
