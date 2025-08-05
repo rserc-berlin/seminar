@@ -14,5 +14,5 @@ categories: #jekyll update
 
 **Venue**: Hertie School, Room TBC
 Hybrid option:
-(Zoom link will follow via mailing list)
+(Zoom link will follow via the mailing list)
 
