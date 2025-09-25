@@ -1,7 +1,7 @@
 ---
 
 title:  "Misato Sato (Grantham Research Institute, LSE)"
-date:   2025-10-01 10:00:00 +0200
+date:   2025-10-01 11:00:00 +0200
 categories: #jekyll update
 
 ---
@@ -10,9 +10,9 @@ categories: #jekyll update
 
 **Website**: Further information on Misato Sato's research can be found [here](https://personal.lse.ac.uk/satom/).
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 11:00 - 12:00  (CEST) **Special date**
 
-**Venue**: Hertie School, Room TBC
+**Venue**: Hertie School (Friedrichstr. 180), Maker Space
 Hybrid option:
-(Zoom link will follow via the mailing list)
+(only by request via email)
 
