@@ -12,7 +12,7 @@ categories: #jekyll update
 
 **Time**: 11:00 - 12:00  (CEST) **Special date**
 
-**Venue**: Hertie School (Friedrichstr. 180), Maker Space
+**Venue**: Hertie School (Friedrichstr. 180), Maker Space,
 Hybrid option:
 (only by request via email)
 
