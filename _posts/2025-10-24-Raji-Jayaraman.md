@@ -6,13 +6,13 @@ categories: #jekyll update
 
 ---
 
-**Title**: TBA
+**Title**: Growing Gherkins in Extreme Heat
 
 **Website**: Further information on Raji Jayaraman's research can be found [here](https://sites.google.com/view/rajijayaraman/home?authuser=0).
 
 **Time**: 10:15 - 11:45  (CEST)
 
-**Venue**: RWI, Room TBC
+**Venue**: RWI, Zinnowitzer Straße 1
 Hybrid option:
 (Zoom link will follow via the mailing list)
 
