@@ -1,7 +1,7 @@
 ---
 
 title:  "Juan Palacios (Maastricht University/MIT)"
-date:   2026-02-06 10:00:00 +0200
+date:   2026-01-30 10:00:00 +0200
 categories: #jekyll update
 
 ---
