@@ -1,7 +1,7 @@
 ---
 
 title:  "Felix Klapper (University Hannover)"
-date:   2025-12-05 10:00:00 +0200
+date:   2026-01-09 10:00:00 +0200
 categories: #jekyll update
 
 ---
