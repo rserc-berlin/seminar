@@ -6,7 +6,7 @@ categories: #jekyll update
 
 ---
 
-**Title**: TBA
+**Title**: Can combining education and entertainment in video games promote pro-environmental behaviour? (Stefania Innocenti)
 
 **Website**: Further information on Stefania Innocenti's research can be found [here](https://stefaniainnocenti.com/) and on Lutz Sager's research [here](https://sites.google.com/view/lutzsager/). 
 
