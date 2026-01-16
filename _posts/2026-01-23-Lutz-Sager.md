@@ -6,7 +6,9 @@ categories: #jekyll update
 
 ---
 
-**Title**: Can combining education and entertainment in video games promote pro-environmental behaviour? (Stefania Innocenti)
+**Title**: Stefania Innocenti: Can combining education and entertainment in video games promote pro-environmental behaviour? 
+
+Lutz Sager: Biodiversity Engel Curves: Estimating How Income and Inequality Shape Consumption-driven Biodiversity Loss
 
 **Website**: Further information on Stefania Innocenti's research can be found [here](https://stefaniainnocenti.com/) and on Lutz Sager's research [here](https://sites.google.com/view/lutzsager/). 
 
