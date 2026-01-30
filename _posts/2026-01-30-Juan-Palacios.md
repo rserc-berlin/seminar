@@ -6,7 +6,7 @@ categories: #jekyll update
 
 ---
 
-**Title**: TBA
+**Title**: The Challenge of Pivotal Timing: Sustainable Shareholder Proposals in Real Asset Investments
 
 **Website**: Further information on Juan Palacios research can be found [here](https://sites.google.com/view/juanpalacios/about-me).
 
