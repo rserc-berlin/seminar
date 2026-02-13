@@ -1,6 +1,6 @@
 ---
 
-title:  "Maria Waldinger (HEC University of Lausanne)"
+title:  "Maria Waldinger (KU Eichstätt-Ingolstadt)"
 date:   2026-06-05 10:00:00 +0200
 categories: #jekyll update
 
