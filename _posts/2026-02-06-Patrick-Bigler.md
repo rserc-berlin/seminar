@@ -15,5 +15,5 @@ categories: #jekyll update
 **Venue**: DIW Berlin, Karl Popper Room / 2.3.020
 Anton-Wilhelm-Amo-Straße 58
 Hybrid option:
-(Teams link will follow via the mailing list)
+(Teams link will follow via mailing list)
 
