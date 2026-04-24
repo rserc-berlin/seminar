@@ -1,7 +1,7 @@
 ---
 
 title:  "Florian Diekert (Augsburg University)"
-date:   2026-06-05 10:00:00 +0200
+date:   2026-06-26 10:00:00 +0200
 categories: #jekyll update
 
 ---
