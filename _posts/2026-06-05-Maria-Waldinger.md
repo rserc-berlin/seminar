@@ -8,7 +8,7 @@ categories: #jekyll update
 
 **Title**: TBA
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 09:15 - 10:45  (CEST)
 
 **Venue**: TBA
 Hybrid option:
