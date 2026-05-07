@@ -8,6 +8,8 @@ categories: #jekyll update
 
 **Title**: TBA
 
+**Website**: Further information on Florian Diekert's research can be found [here](https://floriandiekert.com/).
+
 **Time**: 10:15 - 11:45  (CEST)
 
 **Venue**: HU Berlin

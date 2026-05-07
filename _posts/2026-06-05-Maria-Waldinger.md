@@ -8,6 +8,8 @@ categories: #jekyll update
 
 **Title**: TBA
 
+**Website**: Further information on Maria Waldinger's research can be found [here](https://www.mariawaldinger.com/).
+
 **Time**: 09:15 - 10:45  (CEST)
 
 **Venue**: TBA
