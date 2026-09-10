@@ -12,7 +12,7 @@ Lutz Sager: Biodiversity Engel Curves: Estimating How Income and Inequality Shap
 
 **Website**: Further information on Stefania Innocenti's research can be found [here](https://stefaniainnocenti.com/) and on Lutz Sager's research [here](https://sites.google.com/view/lutzsager/). 
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: TU Berlin, Room H3143
 Straße des 17. Juni 135

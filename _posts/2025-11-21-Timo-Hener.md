@@ -11,7 +11,7 @@ Health, Productivity, and Residential Sorting
 
 **Website**: Further information on Timo Hener's research can be found [here](https://sites.google.com/site/henertimo/home).
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: DIW Berlin, Karl Popper / 2.3.020
 Anton-Wilhelm-Amo-Straße 58

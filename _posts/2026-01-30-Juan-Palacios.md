@@ -10,7 +10,7 @@ categories: #jekyll update
 
 **Website**: Further information on Juan Palacios research can be found [here](https://sites.google.com/view/juanpalacios/about-me).
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: MCC/PIK RD5 Conference Room,
 Torgauer Str. 12-15, 10829 Berlin

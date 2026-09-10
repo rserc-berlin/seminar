@@ -6,7 +6,7 @@ categories: #jekyll update
 
 **Title**: Measures against carbon leakage – combining output-based allocation with consumption taxes
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: DIW Berlin,
 Mohrenstraße 58, 10117 Berlin,

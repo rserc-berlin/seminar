@@ -8,7 +8,7 @@ categories: #jekyll update
 
 **Title**: Income Inequality and Political Polarization
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: Campus Nord of the Humboldt University (Hannoversche Str. 27, 10115 Berlin) - Room 1.22
 

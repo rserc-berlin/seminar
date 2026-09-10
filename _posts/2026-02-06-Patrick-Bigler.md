@@ -10,7 +10,7 @@ categories: #jekyll update
 
 **Website**: Further information on Patrick Bigler's research can be found [here](https://sites.google.com/view/patrick-bigler/home).
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: DIW Berlin, Karl Popper Room / 2.3.020
 Anton-Wilhelm-Amo-Straße 58

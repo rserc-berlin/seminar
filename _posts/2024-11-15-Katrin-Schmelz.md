@@ -8,7 +8,7 @@ categories: #jekyll update
 Evidence on pitfalls and opportunities in climate
 policy design
 
-**Time**: 2-3 pm (CEST)
+**Time**: 2-3 pm (CET)
 
 **Venue**: Virtual format: zoom link will
 follow via mailing list

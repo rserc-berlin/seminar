@@ -7,7 +7,7 @@ categories: #jekyll update
 **Title**: Resource Extraction and Waste taxes in Competitive
 Equilibrium
 
-**Time**: 10:15 - 11:45  (CEST)
+**Time**: 10:15 - 11:45  (CET)
 
 **Venue**: DIW Berlin,
 Mohrenstraße 58, 10117 Berlin,
