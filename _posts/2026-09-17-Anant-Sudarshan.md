@@ -10,7 +10,7 @@ categories: #jekyll update
 
 **Website**: Further information on Anant Sudarshan's research can be found [here](https://www.anantsudarshan.com/).
 
-**Time**: 14:15 - 15:45  (CEST) **Special date**
+**Time**: 11:00 - 12:00  (CEST) **Special date**
 
 **Venue**: MCC/PIK RD5 Conference Room,
 Torgauer Str. 12-15, 10829 Berlin
