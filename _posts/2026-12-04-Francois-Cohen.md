@@ -15,5 +15,7 @@ categories: #jekyll update
 **Venue**: DIW Berlin
 Anton-Wilhelm-Amo-Straße 58
 Hybrid option:
-(Teams link will follow via mailing list)
+(Teams link will follow via the mailing list)
+
+
 

@@ -1,19 +1,19 @@
 ---
 
-title:  "Anant Sudarshan (U Warwick, U Chicago)"
-date:   2026-09-17 10:00:00 +0200
+title:  "Robert Schmidt (Fernuni Hagen)"
+date:   2027-01-15 10:00:00 +0200
 categories: #jekyll update
 
 ---
 
-**Title**: Paying for Power 
+**Title**: Testing the free-rider hypothesis in climate policy
 
-**Website**: Further information on Anant Sudarshan's research can be found [here](https://www.anantsudarshan.com/).
+**Website**: Further information on Robert Schmidt's research can be found [here](https://www.fernuni-hagen.de/mikrooekonomie/team/robert.schmidt.shtml).
 
-**Time**: 11:00 - 12:00  (CEST) **Special date**
+**Time**: 10:15 - 11:45  (CEST)
 
-**Venue**: MCC/PIK RD5 Conference Room,
-Torgauer Str. 12-15, 10829 Berlin
+**Venue**: HU Berlin
+Hannoversche Str. 27, 10115 Berlin
 Hybrid option:
 (Zoom link will follow via the mailing list)
 
