@@ -6,7 +6,7 @@ categories: #jekyll update
 
 ---
 
-**Title**: TBA
+**Title**: The Convexity of Hurricane Damages
 
 **Website**: Further information on Francois Cohen's research can be found [here](https://sites.google.com/site/francoiscoheneconomist/home).
 

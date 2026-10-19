@@ -12,7 +12,8 @@ categories: #jekyll update
 
 **Time**: 09:15 - 10:45  (CEST)
 
-**Venue**: TBA
+**Venue**: MCC/PIK RD5 Conference Room,
+Torgauer Str. 12-15, 10829 Berlin
 Hybrid option:
 (Teams link will follow via mailing list)
 
